@@ -21,8 +21,15 @@ I transform complex datasets into simple dashboards and business insights that h
     - Total Employees: 1,000
     - Average Salary: $138,613.09
 - Dashboard Previews are in `/Screenshots`
-- **Direct Link:** [View Dashboard Commit](https://github.com/preciousdominic05-ops/data-analyst-portfolio/commit/231819210bb391cad559684917d65477f809f288)
+- **Direct Link:** [https://github.com/preciousdominic05-ops/data-analyst-portfolio/commit/231819210bb391cad559684917d65477f809f288]
 
 **Repo Link:** https://github.com/preciousdominic05-ops/data-analyst-portfolio
+
+---
+
+### Connect With Me
+- **GitHub:** [@reciousdominic05-ops]
+- **LinkedIn:** [https://www.linkedin.com/in/precious-dominic-832742267?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- **Gmail:** [preciousdominic05@gmail.com]
 
 
