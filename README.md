@@ -1,3 +1,5 @@
+<img width="2048" height="1152" alt="IMG-20260923-WA6509 jpg" src="https://github.com/user-attachments/assets/577edc22-ad5f-4ff0-bb08-2b273a9bb172" />
+
 ### Hi there, I'm Precious Dominic 👋
 
 **Data Analyst | Python | SQL | Excel | Power BI**
