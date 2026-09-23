@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there, I'm Precious Dominic 👋
 
-<!--
-**preciousdominic05-ops/preciousdominic05-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Python | SQL | Excel | Power BI**
 
-Here are some ideas to get you started:
+I transform complex datasets into simple dashboards and business insights that help businesses make better decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📊 **Analysis:** Data Cleaning, KPI Reporting, Data Storytelling
+- 📈 **Visualization:** Power BI Dashboards, Excel Dashboards, Matplotlib
+
+---
+
+#### 📌 Pinned Projects
+
+**1. [Data Analyst Portfolio](https://github.com/preciousdominic05-ops/data-analyst-portfolio)**
+> My central portfolio containing projects in Python, SQL, Excel & Power BI.
+
+**Featured Analysis: Employee Data Analysis**
+- Dataset: `Data.xlsx` (1,000 Employees)
+- **Key Metrics Found:**
+    - Total Employees: 1,000
+    - Average Salary: $138,613.09
+- Dashboard Previews are in `/Screenshots`
+- **Direct Link:** [View Dashboard Commit](https://github.com/preciousdominic05-ops/data-analyst-portfolio/commit/231819210bb391cad559684917d65477f809f288)
+
+**Repo Link:** https://github.com/preciousdominic05-ops/data-analyst-portfolio
+
+
