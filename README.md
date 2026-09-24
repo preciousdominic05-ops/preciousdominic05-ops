@@ -6,22 +6,39 @@
 
 I transform complex datasets into simple dashboards and business insights that help businesses make better decisions.
 
+Welcome to my Data Analyst Portfolio! This repository contains my projects in **Python, SQL, Excel, Power BI, Dashboards and Business Intelligence.**
 
-- 📊 **Analysis:** Data Cleaning, KPI Reporting, Data Storytelling
-- 📈 **Visualization:** Power BI Dashboards, Excel Dashboards, Matplotlib
+**Portfolio Repo:** https://github.com/preciousdominic05-ops/data-analyst-portfolio
 
 ---
 
+### 👩‍💻 About Me
+
+I am an aspiring / entry-level Data Analyst passionate about data storytelling, business insights, and visualization. I enjoy working with messy datasets to uncover trends, KPIs, and growth opportunities.
+
+**Core Skills:**
+- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+- **Visualization & BI:** Power BI, Excel (Pivot Tables, VLOOKUP, Dashboards), Matplotlib
+- **Data Analysis:** Data Cleaning, EDA, Business Insights, KPI Reporting
+- **Tools:** Power BI, Jupyter Notebook, Microsoft Excel
+
 #### 📌 Pinned Projects
 
-**1. [Data Analyst Portfolio](https://github.com/preciousdominic05-ops/data-analyst-portfolio)**
 > My central portfolio containing projects in Python, SQL, Excel & Power BI.
 
+A complete end-to-end data analysis project on employee data, focused on workforce and salary insights.
 **Featured Analysis: Employee Data Analysis**
 - Dataset: `Data.xlsx` (1,000 Employees)
 - **Key Metrics Found:**
     - Total Employees: 1,000
     - Average Salary: $138,613.09
+**What I Did:**
+- Cleaned and structured raw data using Excel / Python
+- Performed Exploratory Data Analysis (EDA)
+- Created interactive dashboards and KPI visuals
+- Documented business insights and recommendations
+
+**Tools Used:** Excel, Power BI      
 - Dashboard Previews are in `/Screenshots`
 - **Direct Link:** [https://github.com/preciousdominic05-ops/data-analyst-portfolio/commit/231819210bb391cad559684917d65477f809f288]
 
