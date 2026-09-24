@@ -32,6 +32,7 @@ A complete end-to-end data analysis project on employee data, focused on workfor
 - **Key Metrics Found:**
     - Total Employees: 1,000
     - Average Salary: $138,613.09
+      
 **What I Did:**
 - Cleaned and structured raw data using Excel / Python
 - Performed Exploratory Data Analysis (EDA)
