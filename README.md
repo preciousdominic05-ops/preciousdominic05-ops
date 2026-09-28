@@ -41,7 +41,7 @@ A complete end-to-end data analysis project on employee data, focused on workfor
 
 **Tools Used:** Excel, Power BI      
 - Dashboard Previews are in `/Screenshots`
-- **Direct Link:** [https://github.com/preciousdominic05-ops/data-analyst-portfolio/commit/231819210bb391cad559684917d65477f809f288]
+- **Direct Link:** [https://github.com/preciousdominic05-ops/data-analyst-portfolio/tree/main/Screenshots]
 
 **Repo Link:** https://github.com/preciousdominic05-ops/data-analyst-portfolio
 
