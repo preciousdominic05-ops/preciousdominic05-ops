@@ -49,7 +49,7 @@ A complete end-to-end data analysis project on employee data, focused on workfor
 
 ### Connect With Me
 - **GitHub:** [@reciousdominic05-ops]
-- **LinkedIn:** [https://www.linkedin.com/in/precious-dominic-832742267?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- **LinkedIn:** [www.linkedin.com/in/precious-dominic-832742267]
 - **Gmail:** [preciousdominic05@gmail.com]
 
 
